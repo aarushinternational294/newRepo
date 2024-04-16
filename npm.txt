@@ -1,0 +1,11 @@
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add checkbox
+
+npm i react-google-recaptcha
+
+# combobox
+- popover : npx shadcn-ui@latest add popover
+- command : npx shadcn-ui@latest add command
+
+npx shadcn-ui@latest add dialog
+
