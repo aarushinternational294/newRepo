@@ -1,7 +1,7 @@
 # Ignore everything
 *
 
-# Except for the .next directory
+# But not the .next directory
 !.next/
 
 # And don't ignore the .gitignore file itself
