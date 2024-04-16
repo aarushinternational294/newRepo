@@ -1,13 +1,8 @@
 # Ignore everything
 *
 
-# But not the .next directory
+# Except for the .next directory
 !.next/
 
-# Ignore specific files or folders inside .next if necessary
-# .next/cache/
-# .next/tmp/
-
-# Do not ignore .gitignore and this README
+# And don't ignore the .gitignore file itself
 !.gitignore
-!README.md
