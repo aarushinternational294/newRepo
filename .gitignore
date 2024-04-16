@@ -9,12 +9,13 @@
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
+# commented by # - from line 12 to 18
+# # next.js
+# /.next/
+# /out/
 
-# production
-/build
+# # production
+# /build
 
 # misc
 .DS_Store
